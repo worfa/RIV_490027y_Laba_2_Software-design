@@ -1,0 +1,17 @@
+F:\Programming\Visual Studio Projects\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.exe
+F:\Programming\Visual Studio Projects\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.deps.json
+F:\Programming\Visual Studio Projects\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.runtimeconfig.json
+F:\Programming\Visual Studio Projects\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.dll
+F:\Programming\Visual Studio Projects\Lab2\Lab2\bin\Debug\net6.0-windows\Lab2.pdb
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.AssemblyReference.cache
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.Form1.resources
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.GenerateResource.cache
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfoInputs.cache
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.AssemblyInfo.cs
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.csproj.CoreCompileInputs.cache
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.dll
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\refint\Lab2.dll
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.pdb
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\Lab2.genruntimeconfig.cache
+F:\Programming\Visual Studio Projects\Lab2\Lab2\obj\Debug\net6.0-windows\ref\Lab2.dll
